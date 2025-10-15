@@ -1,0 +1,18 @@
+{
+  "thresholds": {
+    "low_price": 1000,
+    "low_price_qty": 2,
+    "high_price": 1500,
+    "default_qty": 1
+  },
+  "products": [
+    "wireless mouse",
+    "Bluetooth headset",
+    "Data cable",
+    "Pen drive",
+    "laptop stand",
+    "computer",
+    "laptop",
+    "apple"
+  ]
+}
